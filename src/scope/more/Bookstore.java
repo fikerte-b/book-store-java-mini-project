@@ -1,8 +1,8 @@
 package scope.more;
 
 class Bookstore {
-	private static final int DEFAULT_NO_OF_EMPLOYEES = 1;
-	private static final int DEFAULT_NO_OF_BOOKS = 2;
+	private static final int DEFAULT_NO_OF_EMPLOYEES = 20;
+	private static final int DEFAULT_NO_OF_BOOKS = 100;
 	private String id = null;
 	private Book[] books;
 	private Employee[] employees;
